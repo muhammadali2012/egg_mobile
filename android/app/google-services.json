@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238384657279",
+    "project_id": "egg-mobile",
+    "storage_bucket": "egg-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238384657279:android:aa84b165df8c6dd3dba04a",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQ3-Dvdqp6jNvzx01A0YF_elLdQzaC8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
